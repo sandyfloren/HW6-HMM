@@ -1,6 +1,10 @@
 # HW6-HMM
 
-In this assignment, you'll implement the Forward and Viterbi Algorithms (dynamic programming). 
+This repository contains code to create Hidden Markov Models, including implementations of the Forward and Viterbi Algorithms.
+
+The Forward algorithm computes the probability of observing a specific sequence of states, given a hidden markov model. 
+
+The Viterbi algorithm computes the most likely sequence of hidden states leading to a sequence of observed states generated from the model.
 
 
 # Assignment
